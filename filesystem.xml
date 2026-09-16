@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filesystem>
+  <directory name="/">
+    <directory name="home">
+      <directory name="guest">
+        <file name="welcome.txt">Bienvenue dans Labs OS.</file>
+      </directory>
+    </directory>
+    <directory name="bin"/>
+    <directory name="etc">
+      <file name="hostname">labs-os</file>
+      <file name="version">1.0.0</file>
+    </directory>
+    <directory name="tmp"/>
+    <directory name="labs"/>
+    <directory name="storage"/>
+  </directory>
+</filesystem>
