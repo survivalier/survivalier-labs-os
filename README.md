@@ -1,0 +1,1 @@
+Venez décourvir la nouveauté sur Labs by Survivalier: Labs OS. C'est un programme coder en HTML, CSS et JavaScript qui émule un système basé sous Linux, et modifié pour devenir Labs OS. vous naviguez dans un environnement virtuel avec un accès à un espace disque universel pour tous les utilisateurs avec toutes les commandes de bases.
